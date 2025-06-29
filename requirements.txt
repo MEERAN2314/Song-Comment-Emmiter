@@ -1,0 +1,7 @@
+streamlit==1.32.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+google-api-python-client==2.108.0
+textblob==0.17.1
+flask==3.0.2
+flask-cors==4.0.0
